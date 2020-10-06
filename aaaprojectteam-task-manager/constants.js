@@ -1,0 +1,12 @@
+export const DEFAULT = 'id';
+export const NAME = 'name';
+export const EMAIL = 'email';
+export const STATUS = 'status';
+export const PRIORITY = 'priority';
+export const DONE = 'done';
+export const UNDONE = 'undone';
+export const HIGH = 'high';
+export const MIDDLE = 'middle';
+export const LOW = 'low';
+export const PRIORITY_LIST = [HIGH, MIDDLE, LOW];
+export const SORT_LIST = [DEFAULT, NAME, EMAIL, STATUS];
